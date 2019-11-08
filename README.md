@@ -23,7 +23,9 @@
 
 tslint配置参考：https://github.com/palantir/tslint-react；https://www.jianshu.com/p/2b409dfc8f75
 tslint错误列表：https://blog.csdn.net/weixin_42659625/article/details/81002985
+
 tslint报错：
+
 1. Import sources within a group must be alphabetized.--->"ordered-imports": false
 2. Lambdas are forbidden in JSX attributes due to their rendering performance impact--->"jsx-no-lambda": false
 3. Value must be set for boolean attribute--->react使用严格路由时通常加上exact属性就行了，但tslint校验不通过，改为exact={true}
