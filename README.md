@@ -20,6 +20,7 @@
 
 1. create react app：https://www.html.cn/create-react-app/docs/getting-started/
 2. react router：https://react-guide.github.io/react-router-cn/index.html；
+3. react-router-dom: https://reacttraining.com/react-router/web/guides/quick-start
 
 tslint配置参考：https://github.com/palantir/tslint-react；https://www.jianshu.com/p/2b409dfc8f75
 tslint错误列表：https://blog.csdn.net/weixin_42659625/article/details/81002985
